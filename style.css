@@ -1,0 +1,10 @@
+.tooltip_templates { 
+	display: none; 
+}
+#tooltip_content_one, #tooltip_content_two {
+	text-align: center;
+	font-family: sans-serif;
+}
+.tooltipster-content {
+	text-align: center;
+}
