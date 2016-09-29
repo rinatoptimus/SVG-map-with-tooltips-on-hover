@@ -1,3 +1,3 @@
 # SVG map with tooltips on hover
 
-Project created using on-line servicve "Crazysquirrel" and jQuery plugins "Imagemapster", "Tooltipster".
+Project created using on-line service "Crazysquirrel" and jQuery plugins "Imagemapster", "Tooltipster".
